@@ -1,0 +1,5 @@
+CUSTOMER DATA AUTOMATION REPORT
+Generated: 2026-10-11 13:16:52
+Valid unique records: 3
+Duplicate records removed: 1
+Missing-email records skipped: 1
